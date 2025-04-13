@@ -1,5 +1,8 @@
 # Windows-XP-Portfolio
-:raising-hand: Welcome to my new Windows XP vibes-based portfolio!
+
+🙋🙋🙋
+ 
+ Welcome to my new Windows XP vibes-based portfolio!
 
 I created this web on HTML, CSS & Js, just as a hobby project, but can be used as a window for all of you, HR people!
 Hahaha, window, did you get it?
